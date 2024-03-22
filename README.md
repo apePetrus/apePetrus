@@ -4,7 +4,11 @@ Hi 👋 My name is Pedro 'Petrus'
 Python Backend Developer
 ------------------------
 
-I've been learning to code past year. After some highs and lows, I found the way out of tutorial hell and now I'm focused on Python and Backend learning to get a job in the programming career. As someone who have to take the bus for hours and doesn't have much time to chill with my wife, I'm deep diving the area to get a homeoffice job and become a focused programmer.* 🌍  I'm based in somewhere in BRASIL* ✉️  You can contact me at [pedro.hr.pereira@proton.me](mailto:pedro.hr.pereira@proton.me)* 🧠  I'm learning Python and Pandas Framework* ⚡  I use Arch btw
+I've been learning to code past year. After some highs and lows, I found the way out of tutorial hell and now I'm focused on Python and Backend learning to get a job in the programming career. As someone who have to take the bus for hours and doesn't have much time to chill with my wife, I'm deep diving the area to get a homeoffice job and become a focused programmer.
+* 🌍  I'm based in somewhere in BRASIL*
+* ✉️  You can contact me at [pedro.hr.pereira@proton.me](mailto:pedro.hr.pereira@proton.me)*
+* 🧠  I'm learning Python and Pandas Framework*
+* ⚡  I use Arch btw
 
 ### Skills
 
