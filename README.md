@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @apePetrus
-- 👀 I’m interested in apes, Python, Stardew Valley!
+- 👀 I’m interested in apes, Python and Stardew Valley!
 - 🌱 I’m currently learning Python and programming logic
 - 📫 How to reach me: @pedroakapetrus on Instagram!
 - ⚡ Fun fact: I use Arch btw
