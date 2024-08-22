@@ -7,7 +7,7 @@ Python Backend Developer
 I've been learning to code for almost a year and now I'm deep diving Python and backend dev. Also, I am looking for a job right now. Each day I try to become better at my skills.
 * 🌍  I'm based in somewhere in BRASIL
 * ✉️  You can contact me at [pedro.hr.pereira@proton.me](mailto:pedro.hr.pereira@proton.me)
-* 🧠  I'm learning Python and Pandas Framework
+* 🧠  I'm currently learning Python
 * ⚡  I use Arch btw
 
 ### Skills
