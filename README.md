@@ -4,9 +4,6 @@ Hello! My name is Petrus
 Software Developer
 ------------------------
 
-If you teach a monkey to use Vim, it is gonna be a better programmer than your averagae React developer.
-
-* 🌍  I'm based in somewhere in BRASIL (with a big S)
 * ✉️  You can contact me at [pedro.hr.pereira@proton.me](mailto:pedro.hr.pereira@proton.me)
 * 🧠  I'm currently learning how to quit Vim
 * ⚡  I use Void Linux. It's not based on Debian or Arch or Fedora. It's just based.
